@@ -1,0 +1,14 @@
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\bin\Debug\net8.0\STRATEGY.exe
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\bin\Debug\net8.0\STRATEGY.deps.json
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\bin\Debug\net8.0\STRATEGY.runtimeconfig.json
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\bin\Debug\net8.0\STRATEGY.dll
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\bin\Debug\net8.0\STRATEGY.pdb
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\STRATEGY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\STRATEGY.AssemblyInfoInputs.cache
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\STRATEGY.AssemblyInfo.cs
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\STRATEGY.csproj.CoreCompileInputs.cache
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\STRATEGY.dll
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\refint\STRATEGY.dll
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\STRATEGY.pdb
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\STRATEGY.genruntimeconfig.cache
+C:\Users\creat\OneDrive\Desktop\.NET\STRATEGY\obj\Debug\net8.0\ref\STRATEGY.dll
